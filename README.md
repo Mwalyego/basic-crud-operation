@@ -5,7 +5,6 @@
 - [Features](#features)
 - [Technologies](#technologies)
 - [Setup](#setup)
-- [License](#license)
 
 ## Introduction
 This project implements basic CRUD (Create, Read, Update, Delete) operations. It serves as a simple example for understanding how CRUD operations work in a web application.
